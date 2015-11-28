@@ -1,0 +1,76 @@
+
+html {
+
+	height: 100%;
+}
+
+body {
+
+	height: 100%;
+
+}
+
+
+
+
+.hand {
+
+	max-width: 100%;
+}
+
+.first {
+
+	height: 100%;
+	
+
+}
+
+.first a {
+	font-style: normal;
+	font-family: "Myriad Set Pro","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-size: 30px;
+	text-decoration: none;
+	color: #333;
+	font-size: 42px;
+	line-height: 1.1429;
+	letter-spacing: -0.01em;
+	position: absolute;
+	margin: auto;
+	margin-top: 50%;
+
+}
+
+.first a:hover {
+
+	color: silver;
+}
+.second {
+
+	height: 100%;
+	}
+
+
+.second img {
+float: right;
+width: 100%;
+}
+.second a {
+	font-style: normal;
+	font-family: "Myriad Set Pro","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-size: 30px;
+	text-decoration: none;
+	color: #333;
+	font-size: 42px;
+	line-height: 1.1429;
+	letter-spacing: -0.01em;
+	position: absolute;
+	margin-top: 50%;
+	margin-left: 20%;
+
+
+}
+
+.second a:hover {
+
+	color: silver;
+}
