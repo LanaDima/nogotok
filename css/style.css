@@ -1,6 +1,5 @@
-
 html {
-
+	background-color: silver;
 	height: 100%;
 }
 
@@ -10,25 +9,31 @@ body {
 
 }
 
-
-
+.full{
+	max-height: 100%;
+	width: 100%;
+	}
 
 .hand {
+	width: 100%;
+	height: 100%;
+	}
 
-	max-width: 100%;
+.full_height{
+max-height: 100%;
 }
 
 .first {
 
 	height: 100%;
-	
-
 }
 
-.first a {
+.hand_text{
+
 	font-style: normal;
-	font-family: "Myriad Set Pro","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 30px;
+	font-weight: 300;
 	text-decoration: none;
 	color: #333;
 	font-size: 42px;
@@ -37,6 +42,7 @@ body {
 	position: absolute;
 	margin: auto;
 	margin-top: 50%;
+	margin-left: 20%;
 
 }
 
@@ -44,30 +50,15 @@ body {
 
 	color: silver;
 }
+
 .second {
 
 	height: 100%;
 	}
 
-
 .second img {
 float: right;
 width: 100%;
-}
-.second a {
-	font-style: normal;
-	font-family: "Myriad Set Pro","Helvetica Neue","Helvetica","Arial",sans-serif;
-	font-size: 30px;
-	text-decoration: none;
-	color: #333;
-	font-size: 42px;
-	line-height: 1.1429;
-	letter-spacing: -0.01em;
-	position: absolute;
-	margin-top: 50%;
-	margin-left: 20%;
-
-
 }
 
 .second a:hover {
